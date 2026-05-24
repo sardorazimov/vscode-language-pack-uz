@@ -1,0 +1,390 @@
+{
+    "vs/code/electron-sandbox/window/window": {
+        "File": "Fayl",
+        "Edit": "Tahrirlash",
+        "Selection": "Tanlash",
+        "View": "Koʻrinish",
+        "Go": "Oʻtish",
+        "Run": "Ishga tushirish",
+        "Terminal": "Terminal",
+        "Help": "Yordam"
+    },
+    "vs/platform/actions/common/actionCommonCategories": {
+        "File": "Fayl",
+        "Edit": "Tahrirlash",
+        "Selection": "Tanlash",
+        "View": "Koʻrinish",
+        "Go": "Oʻtish",
+        "Run": "Ishga tushirish",
+        "Terminal": "Terminal",
+        "Help": "Yordam"
+    },
+    "vs/workbench/common/actions": {
+        "New File": "Yangi Fayl",
+        "New Folder": "Yangi Papka",
+        "Open File": "Faylni Ochish",
+        "Open Folder": "Papkani Ochish",
+        "Open Recent": "Oxirgi Fayllarni Ochish",
+        "Save": "Saqlash",
+        "Save All": "Hammasini Saqlash",
+        "Save As": "Boshqa Nomlari Saqlash",
+        "Revert File": "Faylni Qaytarish",
+        "Close": "Yopish",
+        "Close All": "Hammasini Yopish",
+        "Close Folder": "Papkani Yopish",
+        "Undo": "Bekor Qilish",
+        "Redo": "Qayta Qilish",
+        "Cut": "Kesish",
+        "Copy": "Nusxa Olish",
+        "Paste": "Joylashtirish",
+        "Delete": "Oʻchirish",
+        "Find": "Topish",
+        "Replace": "Almashtirish",
+        "Find in Files": "Fayllardan Topish",
+        "Replace in Files": "Fayllarni Almashtirish",
+        "Settings": "Sozlamalar",
+        "Preferences": "Moslamalar",
+        "Command Palette": "Buyruqlar Paletrasi",
+        "Toggle Sidebar": "Yon panelni Oʻtkazish",
+        "Toggle Panel": "Panelni Oʻtkazish"
+    },
+    "vs/workbench/browser/parts/editor/editorStatus": {
+        "Ln": "Qator",
+        "Col": "Ustun",
+        "Spaces": "Boʻshliqlar",
+        "Tab Size": "Tab Oʻlchami",
+        "UTF-8": "UTF-8",
+        "CRLF": "CRLF",
+        "LF": "LF",
+        "EOF": "Fayl oxiri",
+        "Encoding": "Kodlash",
+        "Language Mode": "Til rejimi"
+    },
+    "vs/workbench/contrib/search/browser/searchView": {
+        "Search": "Qidirish",
+        "Replace": "Almashtirish",
+        "Replace All": "Hammasini Almashtirish",
+        "Match Case": "Katta-kichik Harflarni Hisobga Olish",
+        "Whole Word": "Butun Soʻz",
+        "Use Regular Expression": "Muntazam Ifodalardan Foydalanish",
+        "Include Pattern": "Kiritish Shabloni",
+        "Exclude Pattern": "Chiqarish Shabloni",
+        "Toggle Details": "Tafsilotlarni Oʻtkazish"
+    },
+    "vs/workbench/contrib/debug/browser/debugActionsWidget": {
+        "Debug": "Nosyaxonalik",
+        "Continue": "Davom Etish",
+        "Pause": "To'xtatish",
+        "Step Over": "Qadamga O'tish",
+        "Step Into": "Ichiga Kirish",
+        "Step Out": "Chiqib Kelish",
+        "Restart": "Qayta Boshlash",
+        "Stop": "To'xtatish",
+        "Disconnect": "Aloqani Uzish",
+        "Run": "Ishga Tushirish"
+    },
+    "vs/workbench/parts/extensions/electron-sandbox/extensionEditor": {
+        "Extensions": "Kengaytmalar",
+        "Install": "O'rnatish",
+        "Uninstall": "O'chirib Tashlash",
+        "Enable": "Faollashtirish",
+        "Disable": "Noʻfaollashtirish",
+        "Update": "Yangilash",
+        "Changelog": "O'zgarishlar Ro'yxati",
+        "Installed": "O'rnatilgan",
+        "Recommended": "Tavsiya Qilingan",
+        "Search Extensions": "Kengaytmalarni Qidirish"
+    },
+    "vs/workbench/contrib/scm/browser/scm": {
+        "Source Control": "Manbaning Nazorati",
+        "Commit": "Tasdiqlashtirish",
+        "Discard Changes": "O'zgarishlarni Bekor Qilish",
+        "Stage": "Bosqichga Oʻtkazish",
+        "Unstage": "Bosqichdan Olib Tashlash",
+        "Stash": "Saqlash",
+        "Pop Stash": "Saqlashni Chiqarish",
+        "Sync": "Sinxronlash",
+        "Publish Branch": "Shoxani Chiqarish"
+    },
+    "vs/workbench/contrib/terminal/browser/terminalActions": {
+        "Terminal": "Terminal",
+        "New Terminal": "Yangi Terminal",
+        "New External Terminal": "Yangi Tashqi Terminal",
+        "Toggle Terminal": "Terminalni Oʻtkazish",
+        "Kill Terminal": "Terminalni Oʻchirish",
+        "Clear": "Tozalash",
+        "Select Default Shell": "Asosiy Qobiqni Tanlang"
+    },
+    "vs/platform/workspace/common/workspace": {
+        "Workspace": "Ish joyi",
+        "Folder": "Papka",
+        "File": "Fayl",
+        "Root": "Ildiz",
+        "Workspace Settings": "Ish joyi Sozlamalari"
+    },
+    "vs/workbench/browser/layout": {
+        "Sidebar": "Yon panel",
+        "Activity Bar": "Faoliyat paneli",
+        "Panel": "Panel",
+        "Editor": "Muharrir",
+        "Minimap": "Kichik Xarita"
+    },
+    "vs/workbench/contrib/files/browser/fileActions": {
+        "New File": "Yangi Fayl",
+        "New Folder": "Yangi Papka",
+        "Open": "Ochish",
+        "Open to the Side": "Tomonga Ochish",
+        "Rename": "Qayta Nomlash",
+        "Delete": "Oʻchirish",
+        "Cut": "Kesish",
+        "Copy": "Nusxa Olish",
+        "Paste": "Joylashtirish",
+        "Copy Relative Path": "Nisbiy Yo'lni Nusxa Olish",
+        "Reveal in Finder": "Topuvchida Ochish",
+        "Open in New Window": "Yangi Oynada Ochish"
+    },
+    "vs/workbench/contrib/outline/browser/outline": {
+        "Outline": "Sharh",
+        "Breadcrumbs": "Moldir izlari"
+    },
+    "vs/editor/contrib/find/findController": {
+        "Find": "Topish",
+        "Find in Files": "Fayllardan Topish",
+        "Replace": "Almashtirish",
+        "Previous Match": "Oldingi Moslik",
+        "Next Match": "Keyingi Moslik",
+        "Toggle Replace": "Almashtirishni Oʻtkazish"
+    },
+    "vs/editor/contrib/goToDefinition/goToDefinition": {
+        "Go to Definition": "Tarifga Oʻtish",
+        "Go to Declaration": "Deklaratsiyaga Oʻtish",
+        "Go to Type Definition": "Tur Tarifiga Oʻtish",
+        "Go to Implementation": "Ijroga Oʻtish",
+        "Go to References": "Havolalarga Oʻtish",
+        "Peek Definition": "Tarifni Koʻrib Chiqish"
+    },
+    "vs/editor/contrib/linesOperations/linesOperations": {
+        "Insert Line Above": "Yuqorida Qator Kiritish",
+        "Insert Line Below": "Pastda Qator Kiritish",
+        "Move Line Up": "Qatorni Yuqoriga Siljitish",
+        "Move Line Down": "Qatorni Pastga Siljitish",
+        "Copy Line Up": "Qatorni Yuqorida Nusxa Olish",
+        "Copy Line Down": "Qatorni Pastda Nusxa Olish",
+        "Delete Line": "Qatorni Oʻchirish",
+        "Indent": "Chekinish",
+        "Outdent": "Chekintirmaslik",
+        "Delete Left": "Chapdan Oʻchirish",
+        "Delete Right": "Oʻngdan Oʻchirish"
+    },
+    "vs/editor/contrib/wordOperations/wordOperations": {
+        "Delete Left Word": "Chap Soʻzni Oʻchirish",
+        "Delete Right Word": "Oʻng Soʻzni Oʻchirish",
+        "Delete Left Subword": "Chap Soʻz Qismini Oʻchirish",
+        "Delete Right Subword": "Oʻng Soʻz Qismini Oʻchirish"
+    },
+    "vs/editor/contrib/indentation/indentation": {
+        "Convert Indentation to Spaces": "Chekinishni Boʻshliqqa Oʻgirish",
+        "Convert Indentation to Tabs": "Chekinishni Tab-ga Oʻgirish",
+        "Change Tab Size": "Tab Oʻlchamini Oʻzgartirish",
+        "Indent Using Spaces": "Boʻshliq Yordamida Chekinish",
+        "Indent Using Tabs": "Tab Yordamida Chekinish"
+    },
+    "vs/editor/contrib/toggleTabsFakingSpaces/toggleTabsFakingSpaces": {
+        "Toggle Use of Spaces for Indentation": "Chekinish Uchun Boʻshliqlardan Foydalanishni Oʻtkazish"
+    },
+    "vs/workbench/contrib/codeEditor/codeEditorService": {
+        "Go to Line": "Qatorga Oʻtish",
+        "Go to Column": "Ustunga Oʻtish",
+        "Open Symbol by Name": "Nomni Boʻyicha Ramzni Ochish"
+    },
+    "vs/workbench/contrib/quickopen/browser/quickOpenController": {
+        "Go to File": "Faylga Oʻtish",
+        "Quick Open": "Tezkor Ochish",
+        "Open Recent": "Oxirgi Fayllarni Ochish"
+    },
+    "vs/workbench/contrib/themes/browser/themes": {
+        "Themes": "Mavzular",
+        "Select Theme": "Mavzuni Tanlang",
+        "Color Theme": "Rang Mavzusu",
+        "File Icon Theme": "Fayl Belgisi Mavzusu",
+        "Product Icon Theme": "Mahsulot Belgisi Mavzusu",
+        "Light": "Oʻnggi",
+        "Dark": "Qorong'u",
+        "High Contrast": "Yuqori Kontrastlilik"
+    },
+    "vs/workbench/contrib/preferences/browser/preferencesEditor": {
+        "Settings": "Sozlamalar",
+        "User Settings": "Foydalanuvchi Sozlamalari",
+        "Workspace Settings": "Ish joyi Sozlamalari",
+        "Remote Settings": "Masofaviy Sozlamalar",
+        "Settings Sync": "Sozlamalarni Sinxronlash",
+        "Search Settings": "Sozlamalarni Qidirish"
+    },
+    "vs/workbench/browser/dnd": {
+        "Drop": "Tashvish",
+        "Drag": "Tortish"
+    },
+    "vs/editor/contrib/formatters/format": {
+        "Format Document": "Hujjatni Formatlash",
+        "Format Selection": "Tanlovni Formatlash"
+    },
+    "vs/editor/contrib/links/links": {
+        "Open Link": "Havolani Ochish"
+    },
+    "vs/editor/contrib/wordHighlighter/wordHighlighter": {
+        "Highlight All Occurrences": "Barcha Qaytnourishlani Taʼkidlash"
+    },
+    "vs/editor/contrib/inlineCompletions/ghostTextController": {
+        "Accept Suggestion": "Taklif-ni Qabul Qilish",
+        "Dismiss Suggestion": "Taklif-ni Rad Etish",
+        "Show Inline Completions": "Qatorli Toʻldirishni Koʻrsatish"
+    },
+    "vs/editor/contrib/suggest/suggestController": {
+        "Trigger Suggest": "Tuzatishni Boshlang",
+        "Accept Selected Suggestion": "Tanlangan Taklif-ni Qabul Qiling",
+        "Dismiss Suggestion": "Taklif-ni Rad Etish",
+        "Select Previous Suggestion": "Oldingi Taklifni Tanlang",
+        "Select Next Suggestion": "Keyingi Taklifni Tanlang",
+        "Toggle Suggestion Details": "Taklif Tafsilotlarini Oʻtkazish",
+        "Insert Snippet": "Snippetni Kiritish",
+        "Commit Character": "Belgi Tasdiqini"
+    },
+    "vs/editor/contrib/parameterHints/parameterHints": {
+        "Trigger Parameter Hints": "Parametr Maslahatlarini Boshlang",
+        "Show Previous": "Avvalgisini Koʻrsatish",
+        "Show Next": "Keyingisini Koʻrsatish"
+    },
+    "vs/workbench/contrib/markers/browser/markers": {
+        "Problems": "Muammolar",
+        "Errors": "Xatolar",
+        "Warnings": "Ogohlantirish",
+        "Information": "Axborot",
+        "Filter": "Filtri",
+        "Clear All": "Hammasini Tozalash"
+    },
+    "vs/workbench/parts/output/browser/output": {
+        "Output": "Chiqish",
+        "Clear Output": "Chiqishni Tozalash",
+        "Lock Output": "Chiqishni Qulflash"
+    },
+    "vs/workbench/contrib/debug/browser/debug": {
+        "Debug": "Nosyaxonalik",
+        "Start Debugging": "Nosyaxonalikni Boshlang",
+        "Run Without Debugging": "Nosyaxonaliksiz Ishga Tushiring",
+        "Stop Debugging": "Nosyaxonalikni To'xtating",
+        "Restart Debugging": "Nosyaxonalikni Qayta Boshlang",
+        "Pause Execution": "Ijroni To'xtating",
+        "Continue Execution": "Ijroni Davom Ettiring",
+        "Step Over": "Qadamga O'tish",
+        "Step Into": "Ichiga Kirish",
+        "Step Out": "Chiqib Kelish",
+        "Run to Cursor": "Kursorgacha Ishga Tushiring",
+        "Reverse Continue": "Teskari Davom Ettiring",
+        "Reverse Step Over": "Teskari Qadamga O'tish",
+        "Reverse Step Into": "Teskari Ichiga Kirish",
+        "Reverse Step Out": "Teskari Chiqib Kelish",
+        "Toggle Breakpoint": "Tormozlanish Nuqtasini Oʻtkazish",
+        "Add Conditional Breakpoint": "Shartli Tormozlanish Nuqtasi Qoʻshish",
+        "Add Logpoint": "Jurnal Nuqtasi Qoʻshish",
+        "Configure Debug": "Nosyaxonalilikni Konfiguratsiya Qilish",
+        "Add Configuration": "Konfiguratsiya Qoʻshish",
+        "Edit Configuration": "Konfiguratsiyani Tahrirlash"
+    },
+    "vs/workbench/contrib/run/common/run": {
+        "Run": "Ishga Tushirish",
+        "Run Task": "Vazifani Ishga Tushirish",
+        "Run Last Task": "Oxirgi Vazifani Ishga Tushirish",
+        "Run Recent Task": "Oxirgi Vaqtda Vazifani Ishga Tushirish",
+        "Run Build Task": "Qurilish Vazifasini Ishga Tushirish",
+        "Run Test Task": "Sinov Vazifasini Ishga Tushirish",
+        "Terminate Task": "Vazifani Tugatish",
+        "Show Running Tasks": "Ishlaydigan Vazifalarni Koʻrsatish",
+        "Restart Running Task": "Ishlaydigan Vazifani Qayta Boshlash",
+        "Configure Tasks": "Vazifalarni Konfiguratsiya Qilish"
+    },
+    "vs/platform/keybinding/common/keybinding": {
+        "Keyboard Shortcuts": "Klaviatura Qisqa Yo'llari",
+        "Show Command Palette": "Buyruqlar Paletrasini Koʻrsatish",
+        "Keybindings": "Tugma Biriktirishlari"
+    },
+    "vs/workbench/contrib/snippets/browser/snippets": {
+        "Insert Snippet": "Snippetni Kiritish",
+        "Insert Snippet From Extension": "Kengaytmadan Snippetni Kiritish"
+    },
+    "vs/editor/contrib/bracketMatching/bracketMatching": {
+        "Go to Bracket": "Qavs-ga Oʻtish",
+        "Select to Bracket": "Qavsgacha Tanlang"
+    },
+    "vs/editor/contrib/multicursor/multicursor": {
+        "Add Cursor Above": "Yuqorida Kursor Qoʻshish",
+        "Add Cursor Below": "Pastda Kursor Qoʻshish",
+        "Add Cursor to Line Ends": "Qator Oxiriga Kursor Qoʻshish",
+        "Add Next Occurrence": "Keyingi Qaytnourishni Qoʻshish",
+        "Add Previous Occurrence": "Oldingi Qaytnourishni Qoʻshish",
+        "Change All Occurrences": "Barcha Qaytnourishlani Oʻzgartirish",
+        "Select All Occurrences": "Barcha Qaytnourishlani Tanlang"
+    },
+    "vs/editor/contrib/referenceSearch/referenceSearch": {
+        "Find References": "Havolalarni Topish",
+        "Open Reference to the Side": "Havolani Tomonga Ochish"
+    },
+    "vs/workbench/contrib/task/browser/taskQuickPick": {
+        "Recent Tasks": "Oxirgi Vazifalar",
+        "Configure Tasks": "Vazifalarni Konfiguratsiya Qilish",
+        "Terminate Task": "Vazifani Tugatish"
+    },
+    "vs/editor/contrib/smartSelect/smartSelect": {
+        "Expand Selection": "Tanlovni Kengaytish",
+        "Shrink Selection": "Tanlovni Qisqartirish"
+    },
+    "vs/editor/contrib/toggleCase/toggleCase": {
+        "Toggle Case": "Qoplamani Oʻtkazish",
+        "Convert to Uppercase": "Yuqori Harflarga Oʻgirish",
+        "Convert to Lowercase": "Pastki Harflarga Oʻgirish",
+        "Convert to Title Case": "Sarlavha Qoplamiga Oʻgirish"
+    },
+    "vs/editor/contrib/trimTrailingWhitespace/trimTrailingWhitespace": {
+        "Trim Trailing Whitespace": "Oxirgi Boʻshliqlarni Kesish"
+    },
+    "vs/editor/contrib/unusualLineTerminators/unusualLineTerminators": {
+        "Unusual Line Terminators": "Noʻstandart Qator Tamomlashtiruvchilari"
+    },
+    "vs/workbench/contrib/execution/common/execution": {
+        "Execute": "Ijro Etish"
+    },
+    "vs/workbench/contrib/localizations/browser/localizations": {
+        "Localization": "Lokalizatsiya",
+        "Language Pack": "Til Paketiˇ",
+        "Display Language": "Koʻrsatiladigan Til",
+        "Configure Language": "Tilni Konfiguratsiya Qilish"
+    },
+    "vs/platform/notification/common/notification": {
+        "Notification": "Bildirishnoma",
+        "Notifications": "Bildirihnomalar",
+        "Hide Notifications": "Bildirihnomalarni Berkitish",
+        "Clear All Notifications": "Barcha Bildirihnomalarni Tozalash",
+        "Show Notifications": "Bildirihnomalarni Koʻrsatish"
+    },
+    "vs/workbench/api/common/viewsRegistry": {
+        "Views": "Koʻrinishlar",
+        "Open View": "Koʻrinishni Ochish",
+        "Close View": "Koʻrinishni Yopish"
+    },
+    "vs/workbench/contrib/comments/browser/comments": {
+        "Comments": "Izohlar",
+        "Add Comment": "Izoh Qoʻshish",
+        "Reply": "Javob Berish",
+        "Resolve Comment": "Izohni Hal Qilish",
+        "Unresolve Comment": "Izohni Qayta Ochish"
+    },
+    "vs/workbench/contrib/testing/browser/testing": {
+        "Testing": "Sinov",
+        "Run Tests": "Sinov Jarayonlarini Ishga Tushiring",
+        "Run Test": "Sinov Jarayonini Ishga Tushiring",
+        "Debug Test": "Sinov Jarayonini Nosyaxonalash",
+        "Run All Tests": "Barcha Sinov Jarayonlarini Ishga Tushiring",
+        "Stop Test": "Sinov Jarayonini To'xtating",
+        "Show Test Output": "Sinov Chiqishini Koʻrsatish",
+        "Rerun Failed Tests": "Muvaffaqiyatsiz Sinov Jarayonlarini Qayta Ishga Tushiring"
+    }
+}

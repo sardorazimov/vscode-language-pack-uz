@@ -1,0 +1,28 @@
+{
+    "name": "vscode-language-pack-uz",
+    "displayName": "Uzbek Language Pack for Visual Studio Code",
+    "description": "Uzbek language pack extension for VS Code",
+    "version": "0.0.1",
+    "publisher": "sardorazimov",
+    "engines": {
+        "vscode": "^1.90.0"
+    },
+    "categories": [
+        "Language Packs"
+    ],
+    "contributes": {
+        "localizations": [
+            {
+                "languageId": "uz",
+                "languageName": "Oʻzbek tili",
+                "localizedLanguageName": "Oʻzbek tili",
+                "translations": [
+                    {
+                        "id": "vscode",
+                        "path": "./i18n/uz/main.json"
+                    }
+                ]
+            }
+        ]
+    }
+}
